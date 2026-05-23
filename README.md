@@ -11,13 +11,13 @@ Independent security researcher focused on **adversarial machine learning**, **d
 ### 🛡 Detection Engineering & CVE Defense
 
 - Maintain a [`labs/`](https://github.com/1392081456/ctf-notes/tree/main/labs) chapter that reproduces published CVEs in isolated vulhub Docker containers and produces canonical SOC artifacts for each: **Sigma YAML rule**, **Suricata SID**, **structured IOC table**, and **hunting queries in multiple SIEM dialects** (Splunk SPL, Microsoft Sentinel KQL, Elastic ES|QL).
-- Five CVE writeups already published (Shiro, ActiveMQ, Jenkins, Grafana, TeamCity); Log4Shell and Spring4Shell planned next.
+- **Nineteen CVE writeups** now follow this structure, including the canonical advisories Log4Shell (CVE-2021-44228), Spring4Shell (CVE-2022-22965), Shiro RememberMe (CVE-2016-4437), ActiveMQ OpenWire (CVE-2023-46604), Fastjson 1.2.24 AutoType (CVE-2017-18349), Jenkins CLI (CVE-2024-23897), Grafana DuckDB (CVE-2024-9264), TeamCity auth bypass (CVE-2024-27198), Metabase (CVE-2023-38646), GeoServer (CVE-2024-36401), Nexus traversal (CVE-2024-4956), Next.js middleware bypass (CVE-2025-29927), Langflow pre-auth RCE (CVE-2025-3248), DataEase JWT (CVE-2025-49001), and a series of newer items (Tomcat Tribes, ComfyUI-Manager, OpenClaw WebSocket).
 - Public [Use of AI Assistants statement](https://github.com/1392081456/ctf-notes#use-of-ai-assistants) and [Authorization-and-Targets table](https://github.com/1392081456/ctf-notes#authorization-and-targets) describe the defensive orientation of all work in this portfolio.
 
 ### 🎯 CTF Practice
 
-- Active CTF player — member of team **APWN** ([CTFtime](https://ctftime.org/user/colorfulwhitez))
-- ~70 in-depth writeups across **pwn**, **reverse engineering**, **cryptography**, **web exploitation**, and **forensics**: [`ctf-notes`](https://github.com/1392081456/ctf-notes)
+- Active CTF player — member of team **APWN** ([team page](https://ctftime.org/team/435891), [my profile](https://ctftime.org/user/261101))
+- ~30 highlighted deep writeups plus ~344 catalogued entries across **pwn**, **reverse engineering**, **cryptography**, **web exploitation**, and **forensics**: [`ctf-notes`](https://github.com/1392081456/ctf-notes)
 - Writeups privilege "why each step works" over "what each step does" — failed paths and traps are documented as much as successes, so the lessons remain useful to defenders building detection logic.
 
 ### 🛠 Stack
@@ -28,7 +28,7 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 📫 Contact
 
-- CTFtime: [@colorfulwhitez](https://ctftime.org/user/colorfulwhitez)
+- CTFtime: [@colorfulwhitez](https://ctftime.org/user/261101)
 - Email: colorfulwhitez@gmail.com
 ---
 

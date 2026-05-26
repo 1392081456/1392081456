@@ -16,7 +16,7 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 🎯 CTF Practice
 
-- Active CTF player — member of team **APWN** ([team page](https://ctftime.org/team/435891), [my profile](https://ctftime.org/user/colorfulwhitez))
+- Active CTF player — member of team **APWN** ([team page](https://ctftime.org/team/435891), [my profile](https://ctftime.org/user/261101))
 - ~30 highlighted deep writeups plus ~344 catalogued entries across **pwn**, **reverse engineering**, **cryptography**, **web exploitation**, **forensics**, and **labs**: [`ctf-notes`](https://github.com/1392081456/ctf-notes)
 - Writeups privilege "why each step works" over "what each step does" — failed paths and traps are documented as much as successes, so the lessons remain useful to defenders building detection logic.
 
@@ -28,7 +28,7 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 📫 Contact
 
-- CTFtime: [@colorfulwhitez](https://ctftime.org/user/colorfulwhitez)
+- CTFtime: [@colorfulwhitez](https://ctftime.org/user/261101)
 - Email: colorfulwhitez@gmail.com
 - Affiliation: Guangdong University of Technology ([GDUT](https://cs.gdut.edu.cn/index.htm))
 ---

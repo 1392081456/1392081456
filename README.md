@@ -16,7 +16,7 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 🎯 CTF Practice
 
-- Active CTF player — member of team **APWN** ([team page](https://ctftime.org/team/435891), [my profile](https://ctftime.org/user/261101))
+- Active CTF player — member of team **APWN** ([team page](https://ctftime.org/team/435891), [my profile](https://ctftime.org/user/colorfulwhitez))
 - ~30 highlighted deep writeups plus ~344 catalogued entries across **pwn**, **reverse engineering**, **cryptography**, **web exploitation**, **forensics**, and **labs**: [`ctf-notes`](https://github.com/1392081456/ctf-notes)
 - Writeups privilege "why each step works" over "what each step does" — failed paths and traps are documented as much as successes, so the lessons remain useful to defenders building detection logic.
 
@@ -28,8 +28,9 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 📫 Contact
 
-- CTFtime: [@colorfulwhitez](https://ctftime.org/user/261101)
+- CTFtime: [@colorfulwhitez](https://ctftime.org/user/colorfulwhitez)
 - Email: colorfulwhitez@gmail.com
+- Affiliation: Guangdong University of Technology ([GDUT](https://cs.gdut.edu.cn/index.htm))
 ---
 
-> All research conducted on (a) public CTF challenge binaries distributed by event organizers, (b) vulhub Docker images of vendor-patched CVEs run on 127.0.0.1 in isolation, (c) virtual machines I own on hardware I own, or (d) academic research code I author. No production system, third-party service, or unauthorized network is involved. The intent of this work is consistently defensive — understanding offensive techniques deeply enough to detect them, patch them, and write durable security controls.
+> **Scope statement.** All research in this portfolio is conducted on (a) public CTF challenge binaries distributed by event organizers, (b) vulhub Docker images of vendor-patched CVEs run on `127.0.0.1` in isolation with no external network access, (c) virtual machines I own on hardware I own, or (d) academic research code I author. **No production system, third-party service, or unauthorized network is involved at any stage.** The intent of this work is consistently defensive — understanding offensive techniques deeply enough to detect them, patch them, and write durable security controls. AI assistants (primarily Claude) are used for reverse-engineering support, detection-rule drafting (Sigma / Suricata / YARA), and English translation of Chinese-language research notes; see the [Use of AI Assistants](https://github.com/1392081456/ctf-notes#use-of-ai-assistants) statement in `ctf-notes` for the full operating constraints.

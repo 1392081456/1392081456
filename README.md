@@ -28,6 +28,7 @@ Independent security researcher focused on **adversarial machine learning**, **d
 
 ### 📫 Contact
 
+- Blog: [`1392081456.github.io`](https://1392081456.github.io) — methodology notes on detection engineering
 - CTFtime: [@colorfulwhitez](https://ctftime.org/user/261101)
 - Email: colorfulwhitez@gmail.com
 - Affiliation: Guangdong University of Technology ([GDUT](https://cs.gdut.edu.cn/index.htm))
